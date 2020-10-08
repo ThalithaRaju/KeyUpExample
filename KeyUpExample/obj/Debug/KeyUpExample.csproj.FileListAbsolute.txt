@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\bin\Debug\KeyUpExample.exe.config
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\bin\Debug\KeyUpExample.exe
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\bin\Debug\KeyUpExample.pdb
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.Form1.resources
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.exe
+C:\Users\Thalitha\source\repos\KeyUpExample\KeyUpExample\obj\Debug\KeyUpExample.pdb
